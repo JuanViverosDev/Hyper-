@@ -20,11 +20,11 @@ I’m a developer who is mainly interested in web technologies and cross-platfor
 ### Statistics
 
 <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gregoryinnovo&show_icons=true&theme=tokyonight" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gregoryinnovo&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iStormie7&show_icons=true&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iStormie7&theme=tokyonight" />
 </p>
 
 ### In just a touch
 
-[![Email](https://img.shields.io/badge/Email-282c34?style=for-the-badge&logo=gmail)](mailto:gregoryinnovo@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-282c34?style=for-the-badge&logo=twitter)](https://twitter.com/gregoryinnovo)
+[![Email](https://img.shields.io/badge/Email-282c34?style=for-the-badge&logo=gmail)](mailto:jviverosd1@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-282c34?style=for-the-badge&logo=twitter)](https://twitter.com/HyperCreativity)
