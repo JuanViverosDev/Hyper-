@@ -13,9 +13,9 @@ I’m a developer who is mainly interested in web technologies and cross-platfor
 
 ### Technology stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react)
-![IDE](https://img.shields.io/badge/VisualStudioCode-0076c6?style=for-the-badge&logo=visualstudiocode)
+![JavaScript](https://img.shields.io/badge/JavaScript-282c34?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react&logoColor=white)
+![IDE](https://img.shields.io/badge/VisualStudioCode-282c34?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Statistics
 
@@ -27,4 +27,4 @@ I’m a developer who is mainly interested in web technologies and cross-platfor
 ### In just a touch
 
 [![Email](https://img.shields.io/badge/Email-282c34?style=for-the-badge&logo=gmail)](mailto:jviverosd1@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-282c34?style=for-the-badge&logo=twitter)](https://twitter.com/HyperCreativity)
+[![Twitter](https://img.shields.io/badge/Twitter-282c34?style=for-the-badge&logo=twitter)](https://twitter.com/CreativityHyper)
