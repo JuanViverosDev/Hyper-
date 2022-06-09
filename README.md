@@ -1,9 +1,9 @@
-<h1 align="center">Hi!, I'm Gregson Murcia</h1>
+<h1 align="center">Welcomeee! My name is Juan Viveros.</h1>
 
 ### About me
 
 const aboutMe = {
-  birthPlace: "Cali, Colombia",
+  birthPlace: "Medellín, Colombia",
   specializing: "Full stack software engineer",
   interest: ["taekwondo", "digital drawing", "writer"],
 };
@@ -14,10 +14,7 @@ I’m a developer who is mainly interested in web technologies, cross-platform a
 ### Technology stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-282c34?style=for-the-badge&logo=express)
 ![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/Node.Js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity)
 ![IDE](https://img.shields.io/badge/VisualStudioCode-0076c6?style=for-the-badge&logo=visualstudiocode)
 
 ### Statistics
