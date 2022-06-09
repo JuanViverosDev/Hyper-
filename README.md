@@ -1,16 +1,15 @@
-.
 <h1 align="center">Welcomeee! My name is Juan Viveros.</h1>
 
 ### About me
 
+```
 const aboutMe = {
   birthPlace: "Medellín, Colombia",
   specializing: "Full stack software engineer",
   interest: ["taekwondo", "digital drawing", "writer"],
 };
-
-
-I’m a developer who is mainly interested in web technologies, cross-platform applications and game design.
+```
+I’m a developer who is mainly interested in web technologies and cross-platform applications.
 
 ### Technology stack
 
