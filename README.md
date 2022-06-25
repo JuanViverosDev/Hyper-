@@ -21,8 +21,8 @@ I’m a developer who is mainly interested in web technologies and cross-platfor
 ### Statistics
 
 <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iStormie7&show_icons=true&theme=tokyonight" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iStormie7&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=juanviverosdev&show_icons=true&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=juanviverosdev&theme=tokyonight" />
 </p>
 
 ### In just a touch
